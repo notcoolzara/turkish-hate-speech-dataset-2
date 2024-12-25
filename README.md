@@ -82,9 +82,6 @@ The following models were evaluated:
 
 ---
 
-## Contact and Citation
-For inquiries, contact **Zahraa Altekreeti**: zahraa.altekreeti@example.com  
-
 When referencing this work, please cite:  
 *I. Mayda, Y. E. Demir, T. Dalyan and B. Diri, "Hate Speech Dataset from Turkish Tweets," ASYU 2021.*  
 
