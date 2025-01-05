@@ -75,13 +75,6 @@ The following models were evaluated:
 
 ---
 
-## Future Work
-- Further explore deep learning models (e.g., BERT-based architectures).
-- Experiment with advanced preprocessing methods and feature engineering.
-- Enhance resampling techniques to address the imbalance more effectively.
-
----
-
 When referencing this work, please cite:  
 *I. Mayda, Y. E. Demir, T. Dalyan and B. Diri, "Hate Speech Dataset from Turkish Tweets," ASYU 2021.*  
 
